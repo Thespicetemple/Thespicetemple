@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="200" height="183" alt="Image" src="https://github.com/user-attachments/assets/a7472a68-5872-42fd-9205-13d62625974b" /> 
 
 <!--
 **Thespicetemple/Thespicetemple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
